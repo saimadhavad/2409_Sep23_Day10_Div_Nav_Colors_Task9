@@ -1,0 +1,85 @@
+.IPLLogoImage {
+    width: 900px;
+    display: block;
+    margin: 0 auto;
+
+}
+.IPLHeading {
+    background-color: #295e6a;
+    color: #dfeff0;
+    font-size: 3.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 10px solid #dfeff0;
+    border-radius: 50px;
+    box-shadow: 20px 20px 50px gray ;
+    text-shadow: 10px 10px 10px black;
+}
+/* IPL T20 Teams Page */
+nav {
+    text-align: center;
+    margin: 20px;
+}
+.navigation a{
+    background-color:cornflowerblue;
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 5px;
+    color: #dfeff0;
+}
+.playersImage{
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+div h4 {
+    text-align: center;
+}
+div p {
+    text-align: justify;
+}
+div{
+    background-color: #e6e6e6;
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    display: inline-block;
+    margin: 10px;
+    box-shadow: 20px 20px 20px gray ;
+}
+.CSKDiv {
+    background-color: #ffcb05;
+}
+.DCDiv{
+    background-color: #c90006;
+    color: #dfeff0;
+}
+.GTDiv{
+    background-color: #77c7f2;
+}
+.KKRDiv{
+    background-color: #5d506d;
+    color: #dfeff0;
+}
+.LSGDiv{
+    background-color: #0156e1;
+}
+.MIDiv{
+    background-color: #153a75;
+    color: #dfeff0;
+}
+.PKDiv{
+    background-color: #d71920;
+}
+.RRDiv{
+    background-color: #eb83b5;
+    color: #dfeff0;
+}
+.RCBDiv{
+    background-color: #cb2f2f;
+}
+.SRHDiv{
+    background-color: #8b2824;
+    color: #dfeff0;
+}
